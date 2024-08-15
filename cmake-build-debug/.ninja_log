@@ -1,0 +1,10 @@
+# ninja log v5
+3	775	1718833540182560596	CMakeFiles/bufferManagerProject.dir/src/SmartArrayMemoryManager.cpp.o	7f1573e03b2eb3a6
+9	45	1718544638906371496	build.ninja	e9aefb95373ef292
+2	612	1718833540022547916	CMakeFiles/bufferManagerProject.dir/main.cpp.o	866b5549a2fdfccb
+775	850	1718833540258566618	bufferManagerProject	a00b8fdaa17764c9
+3	726	1717008790170251735	CMakeFiles/bufferManagerProject.dir/src/MemoryManager.cpp.o	7e4148196a171da3
+3	22	1718131034642616877	CMakeFiles/bufferManagerProject.dir/test/SmartArrayMemoryManagerTests.cpp.o	1370a7426046ddb0
+1	563	1718833859183308086	CMakeFiles/bufferManagerProject.dir/main.cpp.o	866b5549a2fdfccb
+1	733	1718833859351320894	CMakeFiles/bufferManagerProject.dir/src/SmartArrayMemoryManager.cpp.o	7f1573e03b2eb3a6
+734	814	1718833859431326992	bufferManagerProject	a00b8fdaa17764c9

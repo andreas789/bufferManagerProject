@@ -1,0 +1,3 @@
+/home/andreas/CLionProjects/bufferManagerProject/cmake-build-debug/CMakeFiles/bufferManagerProject.dir
+/home/andreas/CLionProjects/bufferManagerProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andreas/CLionProjects/bufferManagerProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
